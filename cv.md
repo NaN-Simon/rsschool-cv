@@ -81,3 +81,27 @@ for (i = 0; i < rainbowForH1.length; i++) {
   });
 }
 ```
+
+---
+## Copmpleted projects
+- [SV](https://github.com/NaN-Simon/rsschool-cv)
+
+- [RS-SCHOOL PORTFOLIO](https://github.com/NaN-Simon/JS-FE-RSS-PRE-SCHOOL-2022/tree/portfolio-part3)
+
+---
+## Courses:
+
+- htmlacademy (All free exercise)
+
+- Metalamp (In the process of the second task)
+
+- JS/FE PRE-SCHOOL 2022 (Certificate)
+
+- Ispeak - English course (In the process)
+
+---
+## Languages:
+
+- Russian - Native;
+
+- English - Elementary;
